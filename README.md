@@ -1,14 +1,14 @@
-Ju# 👨🏻‍💻 Rodrigo Ribeiro
+# 👨🏻‍💻 Rodrigo Ribeiro
 
 **`Desenvolvedor Front End`**
 
 
 ---
 
-A
-B
-C
-D
+Abcdefg
+Bcdefg
+Cdefg
+Defg
 
 ---
 
