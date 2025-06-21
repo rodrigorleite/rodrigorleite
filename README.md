@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Rodrigo Ribeiro
+Ju# 👨🏻‍💻 Rodrigo Ribeiro
 
 **`Desenvolvedor Front End`**
 
@@ -54,11 +54,11 @@ D
     src="https://github-readme-stats.vercel.app/api?username=rodrigorleite&show_icons=true&theme=dracula&include_all_commits=true&locale=en" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorleite&theme=dracula&layout=compact&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=dracula&layout=compact&langs_count=9" 
   />
 
 </p>
