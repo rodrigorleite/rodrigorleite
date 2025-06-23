@@ -12,7 +12,7 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
         <img 
             alt="Stars" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rodrigorleite?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/rodrigorleite?color=C79600&style=for-the-badge&labelColor=%23E1AD0E&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/rodrigorleite?tab=followers">
