@@ -7,6 +7,22 @@
 Meu nome é Rodrigo, tenho 22 anos e atualmente estou ingressando na área de programação. 
 Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho uma "pequena" experiência com Front-end, pois realizei a imersão Front-end Alura recentemente, além de participar de algumas aulas de programação no IFPR de Paranavaí em 2021. Atualmente, estou trabalhando em alguns projetos e, em breve, espero poder compartilhar com vocês.
 
+<p align="left">
+    <a href="https://github.com/rodrigorleite?tab=repositories&sort=stargazers">
+        <img 
+            alt="Stars" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/rodrigorleite?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/rodrigorleite?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Folow Me" 
+            src="https://custom-icon-badges.demolab.com/github/followers/rodrigorleite?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -36,23 +52,6 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-<p align="left">
-    <a href="https://github.com/rodrigorleite?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rodrigorleite?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/rodrigorleite?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 <br/>
 <br/>
