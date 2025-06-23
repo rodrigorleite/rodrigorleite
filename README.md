@@ -2,7 +2,6 @@
 
 **`Desenvolvedor Front End`**
 
-
 ---
 
 Meu nome é Rodrigo, tenho 22 anos e atualmente estou ingressando na área de programação. 
@@ -56,7 +55,7 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=dracula&layout=compact&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorleite&theme=dracula&layout=compact&langs_count=9" 
   />
 
 </p>
