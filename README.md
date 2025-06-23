@@ -15,7 +15,7 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
             src="https://custom-icon-badges.demolab.com/github/stars/rodrigorleite?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
-    <a href="https://github.com/rodrigorleite?tab=followers">
+    <a href="">
         <img 
             alt="Followers" 
             title="Folow Me" 
