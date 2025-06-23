@@ -8,7 +8,7 @@ Meu nome é Rodrigo, tenho 22 anos e atualmente estou ingressando na área de pr
 Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho uma "pequena" experiência com Front-end, pois realizei a imersão Front-end Alura recentemente, além de participar de algumas aulas de programação no IFPR de Paranavaí em 2021. Atualmente, estou trabalhando em alguns projetos e, em breve, espero poder compartilhar com vocês.
 
 <p align="left">
-    <a href="https://github.com/rodrigorleite?tab=repositories&sort=stargazers">
+    <a href="">
         <img 
             alt="Stars" 
             title="Total de estrelas GitHub" 
