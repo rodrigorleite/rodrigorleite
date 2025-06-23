@@ -70,7 +70,7 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=rodrigorleite&show_icons=true&theme=radical&include_all_commits=true&locale=en" 
   />
