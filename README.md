@@ -17,7 +17,7 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
     </a>
     <a href="https://github.com/rodrigorleite?tab=followers">
         <img 
-            alt="Seguidores" 
+            alt="Followers" 
             title="Folow Me" 
             src="https://custom-icon-badges.demolab.com/github/followers/rodrigorleite?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
