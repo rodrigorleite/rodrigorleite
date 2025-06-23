@@ -23,6 +23,7 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
         />
     </a>
 </p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
