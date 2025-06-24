@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Rodrigo Ribeiro
 
-**`Desenvolvedor Front End`**
+**`Front-end Developer `**
 
 ---
 
@@ -78,7 +78,7 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
       align="left" 
       alt="GitHub Stats" 
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=radical&layout=compact&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorleite&theme=radical&layout=compact&langs_count=9" 
   />
 
 </p>
