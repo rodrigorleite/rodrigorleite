@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Rodrigo Ribeiro
 
-**`Front-end Developer `**
+**`Front-end Developer`**
 
 ---
 
