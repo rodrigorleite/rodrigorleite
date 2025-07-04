@@ -70,15 +70,16 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=rodrigorleite&show_icons=true&theme=radical&include_all_commits=true&locale=en" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=rodrigorleite&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
+<img 
       align="left" 
       alt="GitHub Stats" 
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorleite&theme=radical&layout=compact&langs_count=8" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorleite&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
