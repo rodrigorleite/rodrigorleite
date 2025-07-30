@@ -51,7 +51,7 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorleite&theme=dark&layout=compact&custom_title=Languages&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoleite&theme=dark&layout=compact&custom_title=Languages&langs_count=9" 
   />
 
 </p>
