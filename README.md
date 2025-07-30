@@ -2,8 +2,8 @@
 
 **`Fullstack Developer`**
 
-Meu nome é Rodrigo, tenho 22 anos e atualmente estou ingressando na área de programação. 
-Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho uma "pequena" experiência com Front-end, pois realizei a imersão Front-end Alura recentemente, além de participar de algumas aulas de programação no IFPR de Paranavaí em 2021. Atualmente, estou trabalhando em alguns projetos e em breve, espero poder compartilhar com vocês.
+Meu nome é Rodrigo, tenho 22 anos e sou um estudante na área de programação. 
+Estou realizando o curso de programador de sistemas pelo Senac , tenho uma "pequena" experiência com Front-end, pois realizei a imersão Front-end Alura recentemente, além de participar do curso de programação no IFPR de Paranavaí. Atualmente, estou trabalhando no projeto [Nome do projeto],.
 
 
  </a>
