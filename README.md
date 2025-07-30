@@ -1,8 +1,6 @@
-# 👨🏻‍💻 Rodrigo R Leite
+## 👨🏻‍💻 Rodrigo R Leite
 
 **`Fullstack Developer`**
-
----
 
 Meu nome é Rodrigo, tenho 22 anos e atualmente estou ingressando na área de programação. 
 Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho uma "pequena" experiência com Front-end, pois realizei a imersão Front-end Alura recentemente, além de participar de algumas aulas de programação no IFPR de Paranavaí em 2021. Atualmente, estou trabalhando em alguns projetos e em breve, espero poder compartilhar com vocês.
@@ -16,10 +14,12 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    
+##
 
+### My Skills
 ---
-
-### 🤖 Languages and Technologies
+**🤖 Languages and Technologies**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -27,8 +27,13 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PhP"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+##
+**Development Tools**
 
-<br/>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
 <br/>
 
 ### ⭐ GitHub Stats
