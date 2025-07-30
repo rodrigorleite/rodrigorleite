@@ -9,7 +9,7 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
 
 
  </a>
-    <a href="linkedin.com/in/rodrigorleiite">
+    <a href="https://www.linkedin.com/in/rodrigorleiite/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
