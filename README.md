@@ -7,22 +7,15 @@
 Meu nome é Rodrigo, tenho 22 anos e atualmente estou ingressando na área de programação. 
 Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho uma "pequena" experiência com Front-end, pois realizei a imersão Front-end Alura recentemente, além de participar de algumas aulas de programação no IFPR de Paranavaí em 2021. Atualmente, estou trabalhando em alguns projetos e em breve, espero poder compartilhar com vocês.
 
-<p align="left">
-    <a href="https://github.com/rodrigorleite?tab=repositories&sort=stargazers">
+
+ </a>
+    <a href="linkedin.com/in/rodrigorleiite">
         <img 
-            alt="Stars" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rodrigorleite?color=C79600&style=for-the-badge&labelColor=%23E1AD0E&logo=star&label=Stars"
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/rodrigorleite?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Folow Me" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rodrigorleite?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
@@ -46,14 +39,14 @@ Estou realizando o curso de programador de sistemas pelo Senac Paraná, tenho um
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rodrigorleite&show_icons=true&theme=radical&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=rodrigorleite&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorleite&theme=radical&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorleite&theme=dark&layout=compact&custom_title=Languages&langs_count=9" 
   />
 
 </p>
