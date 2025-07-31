@@ -46,10 +46,9 @@ Estou realizando o curso de programador de sistemas pelo Senac, realizei a imers
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=rodrigorleite&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
   />
-
-
-
 </p>
+
+[![rodrigorleite](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorleite&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
