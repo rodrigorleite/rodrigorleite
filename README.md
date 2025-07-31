@@ -3,7 +3,7 @@
 **`Fullstack Developer`**
 
 Meu nome é Rodrigo, tenho 22 anos e sou um estudante na área de programação. 
-Estou realizando o curso de programador de sistemas pelo Senac , tenho uma "pequena" experiência com Front-end, pois realizei a imersão Front-end Alura recentemente, além de participar do curso de programação no IFPR de Paranavaí. Atualmente, estou trabalhando no projeto [Nome do projeto],.
+Estou realizando o curso de programador de sistemas pelo Senac , tenho uma "pequena" experiência com Front-end, pois realizei a imersão Front-end Alura recentemente, além de participar do curso de programação no IFPR de Paranavaí. Atualmente, estou trabalhando no projeto **[R.I.C.S](https://github.com/rodrigorleite/System)**.
 
 
  </a>
