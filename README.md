@@ -3,7 +3,6 @@
 **`Fullstack Developer`**
 
 Meu nome é Rodrigo, tenho 23 anos e sou um estudante na área de programação. 
-Estou realizando o curso de programador de sistemas pelo Senac. Realizei a imersão Front-end Alura recentemente, além de participar do curso de programação no IFPR de Paranavaí. Atualmente, estou cursando ads na uninter.
 
 
  </a>
